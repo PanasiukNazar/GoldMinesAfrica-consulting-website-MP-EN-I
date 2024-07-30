@@ -13005,6 +13005,11 @@ textarea {
     z-index: 1;
 }
 
+.property-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
 .property-item .property-content {
     background: #fff;
     padding: 30px;
